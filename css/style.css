@@ -1,0 +1,40 @@
+.noActive:hover{
+    background-color:rgb(243, 243, 243);
+    border-radius:8px;
+}
+.hoverClick:hover{
+    background-color: rgb(243, 243, 243);
+    cursor:pointer;
+    border-radius:8px;
+}
+.destaque:hover{
+    opacity: 0.9;
+    cursor: pointer;
+    border-radius:8px;
+}
+img{
+    border-radius:8px;
+}
+#voltar:hover{
+    color: rgb(167, 167, 167);
+    cursor:pointer;
+}
+.item-header:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+@font-face{
+    src:url("fonte/K2D/K2D-Medium.ttf");
+    font-family: K2D;
+}
+h3{
+    font-family:K2D;
+}
+li{
+    font-family: K2D;
+}
+#partigo{
+    font-family:K2D;
+    color:rgb(61, 61, 61);
+    text-align:justify;
+}
